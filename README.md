@@ -21,21 +21,8 @@ single optical remote-sensing image.
 ## concept behind GAN
 ![s_84D9D849F786EC83B26BF2A0F74F0C33230682E8BA1D41AD8C3F3D770D23236A_1566172128772_gan](https://user-images.githubusercontent.com/113841890/228699301-fa7a2c65-7f19-4c56-a83c-513c724da262.png)
 
-## Attention BAsed GAN
-### Input Image
-### Convolutional Layer
-### Residual Block
-### Residual Block
-### Residual Block
-###  spatial attentive blocks
-###  spatial attentive blocks
-###  spatial attentive blocks
-###  spatial attentive blocks
-### Residual Block
-### Residual Block
-### Convolutional Layer
-### Output Image
-
+## Generator structure
+![Strcuture of generator](https://user-images.githubusercontent.com/113841890/229360612-4e45bf3f-7a8e-476a-8b40-b4313f3a988f.PNG)
 
 ## Residual Block
 ![Residual block](https://user-images.githubusercontent.com/113841890/228701819-46f47b99-54c3-4964-8a88-1468d4a4e767.PNG)
@@ -51,6 +38,12 @@ single optical remote-sensing image.
 ## Discriminator
 ![discriminator](https://user-images.githubusercontent.com/113841890/228702016-39bbc653-6cba-47e6-a053-0da507da6851.PNG)
 
+## Epoch graphs - 1500 epochs
+![loss_graph_001500](https://user-images.githubusercontent.com/113841890/229360663-760d26f4-052d-4bf3-87fb-fa1c181c20d5.jpg)
+
+#### Around 900 epochs, we have less generator loss, so we can use the model000900.h5 to predict the cloudless image.
+
+#### This project is not yet completed Fully, as further studied and modifications needed to be done, Some resulting images are not upto the level.
 
 
 
