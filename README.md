@@ -21,6 +21,10 @@ single optical remote-sensing image.
 ## concept behind GAN
 ![s_84D9D849F786EC83B26BF2A0F74F0C33230682E8BA1D41AD8C3F3D770D23236A_1566172128772_gan](https://user-images.githubusercontent.com/113841890/228699301-fa7a2c65-7f19-4c56-a83c-513c724da262.png)
 
+## General Structure of GAN
+![image-1582299090634-df900b01178a9a4c10f96028ae03f354](https://user-images.githubusercontent.com/113841890/229361411-e43f2fee-f799-4e68-8c85-35e342cef3bd.png)
+
+
 ## Generator structure
 ![Strcuture of generator](https://user-images.githubusercontent.com/113841890/229360612-4e45bf3f-7a8e-476a-8b40-b4313f3a988f.PNG)
 
